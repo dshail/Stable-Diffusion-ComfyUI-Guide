@@ -1,0 +1,5 @@
+# 1. "A cinematic portrait of a cyberpunk warrior in a neon-lit rainy city, ultra-realistic, 8K resolution, photorealism, highly detailed, cinematic lighting, unreal engine 5, rim lighting, moody atmosphere."
+# 2. "A mystical dragon with bioluminescent scales flying over a glowing enchanted forest, cinematic lighting, 8K ultra-detailed, intricate textures, magical realism, dynamic pose."
+# 3. "A cybernetic humanoid with mechanical wings standing on the edge of a futuristic skyline, cyberpunk theme, neon accents, highly detailed mech suit, dark sci-fi, ray-traced reflections, ultra-HD, cinematic realism."
+# 4. "A surreal dreamscape with floating islands, cosmic nebulae, and a waterfall flowing into the sky, ultra-vibrant colors, dreamlike atmosphere, Salvador Dali-inspired surrealism."
+# 5. "A majestic snow leopard in the Himalayas, ultra-realistic fur textures, golden sunlight reflecting on the snow, cinematic wildlife photography."
