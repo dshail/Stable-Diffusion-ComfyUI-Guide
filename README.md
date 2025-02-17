@@ -10,9 +10,7 @@ This repository provides a comprehensive guide on Image Generation using Stable 
 - [Getting Started with ComfyUI](#getting-started-with-comfyui)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Example Outputs](#example-outputs)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 AI art generators like Stable Diffusion use diffusion models and the U-Net architecture to create stunning images from text descriptions. This project provides an in-depth understanding of these models and practical implementation using ComfyUI.
